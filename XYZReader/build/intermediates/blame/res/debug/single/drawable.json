@@ -44,12 +44,12 @@
         "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
-    },
-    {
         "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
         "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/drawable/photo_background_protection.xml",

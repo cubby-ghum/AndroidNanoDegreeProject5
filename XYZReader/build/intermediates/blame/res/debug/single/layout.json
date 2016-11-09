@@ -40,12 +40,12 @@
         "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",

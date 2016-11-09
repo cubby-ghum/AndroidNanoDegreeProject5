@@ -1,7 +1,4 @@
-#Tue Nov 08 15:30:14 PST 2016
-base.0=/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd74b36a2261744be4f14942020bbab6c136749f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf121d148336c39d5d4c9c5af2bfc804adb39a39/classes.dex
-base.1=/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf121d148336c39d5d4c9c5af2bfc804adb39a39
-file.0=/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd74b36a2261744be4f14942020bbab6c136749f/classes.dex
+#Wed Nov 09 12:22:36 PST 2016
+base.0=/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
