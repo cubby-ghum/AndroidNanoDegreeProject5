@@ -52,7 +52,6 @@ public class ArticleDetailActivity extends ActionBarActivity
         ButterKnife.bind(this);
         getLoaderManager().initLoader(0, null, this);
         mPagerAdapter = new MyPagerAdapter(getFragmentManager());
-        getLoaderManager().initLoader(0, null, this);
         mPager.setAdapter(mPagerAdapter);
         mPager.setPageMargin((int) TypedValue
                 .applyDimension(TypedValue.COMPLEX_UNIT_DIP, 1, getResources().getDisplayMetrics()));
@@ -137,8 +136,8 @@ public class ArticleDetailActivity extends ActionBarActivity
 
     public void onUpButtonFloorChanged(long itemId, ArticleDetailFragment fragment) {
         if (itemId == mSelectedItemId) {
-            mSelectedItemUpButtonFloor = fragment.getUpButtonFloor();
-            updateUpButtonPosition();
+    //        mSelectedItemUpButtonFloor = fragment.getUpButtonFloor();
+    //        updateUpButtonPosition();
         }
     }
 
@@ -157,8 +156,8 @@ public class ArticleDetailActivity extends ActionBarActivity
             super.setPrimaryItem(container, position, object);
             ArticleDetailFragment fragment = (ArticleDetailFragment) object;
             if (fragment != null) {
-                mSelectedItemUpButtonFloor = fragment.getUpButtonFloor();
-                updateUpButtonPosition();
+                //mSelectedItemUpButtonFloor = fragment.getUpButtonFloor();
+                //updateUpButtonPosition();
             }
         }
 
