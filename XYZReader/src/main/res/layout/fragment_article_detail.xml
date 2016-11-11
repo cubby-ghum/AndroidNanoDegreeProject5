@@ -10,12 +10,11 @@
         <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="@dimen/detail_photo_height"
-        android:background="?colorPrimary">
+        android:background="?colorPrimary" android:elevation="@dimen/appbar_elevation">
         <android.support.design.widget.CollapsingToolbarLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:layout_scrollFlags="scroll|exitUntilCollapsed"
-            app:expandedTitleMarginStart="72dp"
+        app:layout_scrollFlags="scroll|exitUntilCollapsed" app:expandedTitleMarginStart="72dp"
             app:contentScrim="?attr/colorPrimary">
         <ImageView
         android:layout_width="match_parent"
@@ -111,7 +110,7 @@
                 android:layout_width="56dp"
                 android:layout_height="56dp"
                 android:src="@drawable/ic_share"
-                android:elevation="@dimen/fab_elevation"
+                android:elevation="@dimen/fab_resting_elevation"
                 android:contentDescription="@string/action_share" />
 
         </android.support.design.widget.CoordinatorLayout>
