@@ -12,12 +12,12 @@
         "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_default.xml"
-    },
-    {
         "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
         "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color/abc_tint_default.xml"
     },
     {
         "merged": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
