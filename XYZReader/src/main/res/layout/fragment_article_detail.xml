@@ -10,7 +10,7 @@
         <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="@dimen/detail_photo_height"
-        android:background="?colorPrimary" android:elevation="@dimen/appbar_elevation">
+        android:background="?colorPrimary" android:elevation="@dimen/appbar_elevation" android:id="@+id/articledetailAppBarLayout">
         <android.support.design.widget.CollapsingToolbarLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -34,7 +34,7 @@
         </android.support.design.widget.AppBarLayout>
         </android.support.design.widget.CoordinatorLayout>
 
-        <com.example.xyzreader.ui.ObservableScrollView
+        <android.support.v4.widget.NestedScrollView
                 android:id="@+id/scrollview"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
@@ -95,7 +95,7 @@
 
                     </com.example.xyzreader.ui.MaxWidthLinearLayout>
                 </FrameLayout>
-            </com.example.xyzreader.ui.ObservableScrollView>
+            </android.support.v4.widget.NestedScrollView>
 
             <android.support.design.widget.FloatingActionButton android:id="@+id/share_fab"
                 android:stateListAnimator="@anim/fab_state_list_anim"
@@ -105,9 +105,10 @@
                 android:layout_width="56dp"
                 android:layout_height="56dp"
                 android:src="@drawable/ic_share"
+                android:elevation="@dimen/fab_resting_elevation"
                 app:fabSize="normal"
                 app:backgroundTint="@color/accent"
-                android:elevation="@dimen/fab_resting_elevation"
-                android:contentDescription="@string/action_share" />
+                android:contentDescription="@string/action_share"
+                app:layout_behavior="com.example.xyzreader.util.ScrollAwareFABBehavior"/>
 
         </android.support.design.widget.CoordinatorLayout>
