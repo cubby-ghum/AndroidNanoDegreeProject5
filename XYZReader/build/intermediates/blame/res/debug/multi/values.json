@@ -10557,17 +10557,17 @@
                     "startOffset": 136421,
                     "endLine": 1905,
                     "endColumn": 12,
-                    "endOffset": 136775
+                    "endOffset": 136751
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1128,
-                        "endLine": 29,
+                        "startOffset": 705,
+                        "endLine": 23,
                         "endColumn": 12,
-                        "endOffset": 1482
+                        "endOffset": 1035
                     }
                 }
             },
@@ -10575,20 +10575,20 @@
                 "to": {
                     "startLine": 1906,
                     "startColumn": 4,
-                    "startOffset": 136780,
+                    "startOffset": 136756,
                     "endLine": 1908,
                     "endColumn": 12,
-                    "endOffset": 136898
+                    "endOffset": 136874
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1487,
-                        "endLine": 32,
+                        "startOffset": 1040,
+                        "endLine": 26,
                         "endColumn": 12,
-                        "endOffset": 1605
+                        "endOffset": 1158
                     }
                 }
             },
@@ -10596,10 +10596,10 @@
                 "to": {
                     "startLine": 1909,
                     "startColumn": 4,
-                    "startOffset": 136903,
+                    "startOffset": 136879,
                     "endLine": 1911,
                     "endColumn": 12,
-                    "endOffset": 137052
+                    "endOffset": 137028
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -10617,10 +10617,10 @@
                 "to": {
                     "startLine": 1912,
                     "startColumn": 4,
-                    "startOffset": 137057,
+                    "startOffset": 137033,
                     "endLine": 1916,
                     "endColumn": 12,
-                    "endOffset": 137410
+                    "endOffset": 137386
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -10638,10 +10638,10 @@
                 "to": {
                     "startLine": 1917,
                     "startColumn": 4,
-                    "startOffset": 137415,
+                    "startOffset": 137391,
                     "endLine": 1919,
                     "endColumn": 12,
-                    "endOffset": 137577
+                    "endOffset": 137553
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -10659,10 +10659,10 @@
                 "to": {
                     "startLine": 1920,
                     "startColumn": 4,
-                    "startOffset": 137582,
+                    "startOffset": 137558,
                     "endLine": 1924,
                     "endColumn": 12,
-                    "endOffset": 137947
+                    "endOffset": 137923
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -10680,10 +10680,10 @@
                 "to": {
                     "startLine": 1925,
                     "startColumn": 4,
-                    "startOffset": 137952,
+                    "startOffset": 137928,
                     "endLine": 1928,
                     "endColumn": 12,
-                    "endOffset": 138107
+                    "endOffset": 138083
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -10701,10 +10701,10 @@
                 "to": {
                     "startLine": 1929,
                     "startColumn": 4,
-                    "startOffset": 138112,
+                    "startOffset": 138088,
                     "endLine": 1932,
                     "endColumn": 12,
-                    "endOffset": 138261
+                    "endOffset": 138237
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -10722,9 +10722,9 @@
                 "to": {
                     "startLine": 1933,
                     "startColumn": 4,
-                    "startOffset": 138266,
+                    "startOffset": 138242,
                     "endColumn": 79,
-                    "endOffset": 138341
+                    "endOffset": 138317
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10741,9 +10741,9 @@
                 "to": {
                     "startLine": 1934,
                     "startColumn": 4,
-                    "startOffset": 138346,
+                    "startOffset": 138322,
                     "endColumn": 99,
-                    "endOffset": 138441
+                    "endOffset": 138417
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10760,9 +10760,9 @@
                 "to": {
                     "startLine": 1935,
                     "startColumn": 4,
-                    "startOffset": 138446,
+                    "startOffset": 138422,
                     "endColumn": 89,
-                    "endOffset": 138531
+                    "endOffset": 138507
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10779,9 +10779,9 @@
                 "to": {
                     "startLine": 1936,
                     "startColumn": 4,
-                    "startOffset": 138536,
+                    "startOffset": 138512,
                     "endColumn": 109,
-                    "endOffset": 138641
+                    "endOffset": 138617
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10798,9 +10798,9 @@
                 "to": {
                     "startLine": 1937,
                     "startColumn": 4,
-                    "startOffset": 138646,
+                    "startOffset": 138622,
                     "endColumn": 93,
-                    "endOffset": 138735
+                    "endOffset": 138711
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10817,9 +10817,9 @@
                 "to": {
                     "startLine": 1938,
                     "startColumn": 4,
-                    "startOffset": 138740,
+                    "startOffset": 138716,
                     "endColumn": 105,
-                    "endOffset": 138841
+                    "endOffset": 138817
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10836,9 +10836,9 @@
                 "to": {
                     "startLine": 1939,
                     "startColumn": 4,
-                    "startOffset": 138846,
+                    "startOffset": 138822,
                     "endColumn": 91,
-                    "endOffset": 138933
+                    "endOffset": 138909
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10855,10 +10855,10 @@
                 "to": {
                     "startLine": 1940,
                     "startColumn": 4,
-                    "startOffset": 138938,
+                    "startOffset": 138914,
                     "endLine": 1941,
                     "endColumn": 12,
-                    "endOffset": 139033
+                    "endOffset": 139009
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10876,10 +10876,10 @@
                 "to": {
                     "startLine": 1942,
                     "startColumn": 4,
-                    "startOffset": 139038,
+                    "startOffset": 139014,
                     "endLine": 1943,
                     "endColumn": 12,
-                    "endOffset": 139145
+                    "endOffset": 139121
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10897,10 +10897,10 @@
                 "to": {
                     "startLine": 1944,
                     "startColumn": 4,
-                    "startOffset": 139150,
+                    "startOffset": 139126,
                     "endLine": 1945,
                     "endColumn": 12,
-                    "endOffset": 139259
+                    "endOffset": 139235
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10918,10 +10918,10 @@
                 "to": {
                     "startLine": 1946,
                     "startColumn": 4,
-                    "startOffset": 139264,
+                    "startOffset": 139240,
                     "endLine": 1947,
                     "endColumn": 12,
-                    "endOffset": 139375
+                    "endOffset": 139351
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10939,10 +10939,10 @@
                 "to": {
                     "startLine": 1948,
                     "startColumn": 4,
-                    "startOffset": 139380,
+                    "startOffset": 139356,
                     "endLine": 1949,
                     "endColumn": 12,
-                    "endOffset": 139491
+                    "endOffset": 139467
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10960,9 +10960,9 @@
                 "to": {
                     "startLine": 1950,
                     "startColumn": 4,
-                    "startOffset": 139496,
+                    "startOffset": 139472,
                     "endColumn": 93,
-                    "endOffset": 139585
+                    "endOffset": 139561
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10979,9 +10979,9 @@
                 "to": {
                     "startLine": 1951,
                     "startColumn": 4,
-                    "startOffset": 139590,
+                    "startOffset": 139566,
                     "endColumn": 113,
-                    "endOffset": 139699
+                    "endOffset": 139675
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -10998,9 +10998,9 @@
                 "to": {
                     "startLine": 1952,
                     "startColumn": 4,
-                    "startOffset": 139704,
+                    "startOffset": 139680,
                     "endColumn": 111,
-                    "endOffset": 139811
+                    "endOffset": 139787
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11017,10 +11017,10 @@
                 "to": {
                     "startLine": 1953,
                     "startColumn": 4,
-                    "startOffset": 139816,
+                    "startOffset": 139792,
                     "endLine": 1954,
                     "endColumn": 12,
-                    "endOffset": 139913
+                    "endOffset": 139889
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11038,10 +11038,10 @@
                 "to": {
                     "startLine": 1955,
                     "startColumn": 4,
-                    "startOffset": 139918,
+                    "startOffset": 139894,
                     "endLine": 1956,
                     "endColumn": 12,
-                    "endOffset": 140033
+                    "endOffset": 140009
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11059,10 +11059,10 @@
                 "to": {
                     "startLine": 1957,
                     "startColumn": 4,
-                    "startOffset": 140038,
+                    "startOffset": 140014,
                     "endLine": 1958,
                     "endColumn": 12,
-                    "endOffset": 140155
+                    "endOffset": 140131
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11080,9 +11080,9 @@
                 "to": {
                     "startLine": 1959,
                     "startColumn": 4,
-                    "startOffset": 140160,
+                    "startOffset": 140136,
                     "endColumn": 81,
-                    "endOffset": 140237
+                    "endOffset": 140213
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11099,9 +11099,9 @@
                 "to": {
                     "startLine": 1960,
                     "startColumn": 4,
-                    "startOffset": 140242,
+                    "startOffset": 140218,
                     "endColumn": 103,
-                    "endOffset": 140341
+                    "endOffset": 140317
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11118,9 +11118,9 @@
                 "to": {
                     "startLine": 1961,
                     "startColumn": 4,
-                    "startOffset": 140346,
+                    "startOffset": 140322,
                     "endColumn": 119,
-                    "endOffset": 140461
+                    "endOffset": 140437
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11137,9 +11137,9 @@
                 "to": {
                     "startLine": 1962,
                     "startColumn": 4,
-                    "startOffset": 140466,
+                    "startOffset": 140442,
                     "endColumn": 125,
-                    "endOffset": 140587
+                    "endOffset": 140563
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11156,9 +11156,9 @@
                 "to": {
                     "startLine": 1963,
                     "startColumn": 4,
-                    "startOffset": 140592,
+                    "startOffset": 140568,
                     "endColumn": 97,
-                    "endOffset": 140685
+                    "endOffset": 140661
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11175,9 +11175,9 @@
                 "to": {
                     "startLine": 1964,
                     "startColumn": 4,
-                    "startOffset": 140690,
+                    "startOffset": 140666,
                     "endColumn": 93,
-                    "endOffset": 140779
+                    "endOffset": 140755
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11194,9 +11194,9 @@
                 "to": {
                     "startLine": 1965,
                     "startColumn": 4,
-                    "startOffset": 140784,
+                    "startOffset": 140760,
                     "endColumn": 87,
-                    "endOffset": 140867
+                    "endOffset": 140843
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11213,9 +11213,9 @@
                 "to": {
                     "startLine": 1966,
                     "startColumn": 4,
-                    "startOffset": 140872,
+                    "startOffset": 140848,
                     "endColumn": 111,
-                    "endOffset": 140979
+                    "endOffset": 140955
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11232,9 +11232,9 @@
                 "to": {
                     "startLine": 1967,
                     "startColumn": 4,
-                    "startOffset": 140984,
+                    "startOffset": 140960,
                     "endColumn": 115,
-                    "endOffset": 141095
+                    "endOffset": 141071
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11251,9 +11251,9 @@
                 "to": {
                     "startLine": 1968,
                     "startColumn": 4,
-                    "startOffset": 141100,
+                    "startOffset": 141076,
                     "endColumn": 121,
-                    "endOffset": 141217
+                    "endOffset": 141193
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11270,9 +11270,9 @@
                 "to": {
                     "startLine": 1969,
                     "startColumn": 4,
-                    "startOffset": 141222,
+                    "startOffset": 141198,
                     "endColumn": 111,
-                    "endOffset": 141329
+                    "endOffset": 141305
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11289,10 +11289,10 @@
                 "to": {
                     "startLine": 1970,
                     "startColumn": 4,
-                    "startOffset": 141334,
+                    "startOffset": 141310,
                     "endLine": 1972,
                     "endColumn": 12,
-                    "endOffset": 141504
+                    "endOffset": 141480
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11310,9 +11310,9 @@
                 "to": {
                     "startLine": 1973,
                     "startColumn": 4,
-                    "startOffset": 141509,
+                    "startOffset": 141485,
                     "endColumn": 115,
-                    "endOffset": 141620
+                    "endOffset": 141596
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11329,9 +11329,9 @@
                 "to": {
                     "startLine": 1974,
                     "startColumn": 4,
-                    "startOffset": 141625,
+                    "startOffset": 141601,
                     "endColumn": 85,
-                    "endOffset": 141706
+                    "endOffset": 141682
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11348,9 +11348,9 @@
                 "to": {
                     "startLine": 1975,
                     "startColumn": 4,
-                    "startOffset": 141711,
+                    "startOffset": 141687,
                     "endColumn": 91,
-                    "endOffset": 141798
+                    "endOffset": 141774
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11367,10 +11367,10 @@
                 "to": {
                     "startLine": 1976,
                     "startColumn": 4,
-                    "startOffset": 141803,
+                    "startOffset": 141779,
                     "endLine": 1977,
                     "endColumn": 12,
-                    "endOffset": 141910
+                    "endOffset": 141886
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11388,10 +11388,10 @@
                 "to": {
                     "startLine": 1978,
                     "startColumn": 4,
-                    "startOffset": 141915,
+                    "startOffset": 141891,
                     "endLine": 1979,
                     "endColumn": 12,
-                    "endOffset": 142034
+                    "endOffset": 142010
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11409,9 +11409,9 @@
                 "to": {
                     "startLine": 1980,
                     "startColumn": 4,
-                    "startOffset": 142039,
+                    "startOffset": 142015,
                     "endColumn": 66,
-                    "endOffset": 142101
+                    "endOffset": 142077
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11428,10 +11428,10 @@
                 "to": {
                     "startLine": 1981,
                     "startColumn": 4,
-                    "startOffset": 142106,
+                    "startOffset": 142082,
                     "endLine": 1982,
                     "endColumn": 12,
-                    "endOffset": 142227
+                    "endOffset": 142203
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11449,9 +11449,9 @@
                 "to": {
                     "startLine": 1983,
                     "startColumn": 4,
-                    "startOffset": 142232,
+                    "startOffset": 142208,
                     "endColumn": 67,
-                    "endOffset": 142295
+                    "endOffset": 142271
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11468,10 +11468,10 @@
                 "to": {
                     "startLine": 1984,
                     "startColumn": 4,
-                    "startOffset": 142300,
+                    "startOffset": 142276,
                     "endLine": 1985,
                     "endColumn": 12,
-                    "endOffset": 142423
+                    "endOffset": 142399
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11489,10 +11489,10 @@
                 "to": {
                     "startLine": 1986,
                     "startColumn": 4,
-                    "startOffset": 142428,
+                    "startOffset": 142404,
                     "endLine": 1987,
                     "endColumn": 12,
-                    "endOffset": 142567
+                    "endOffset": 142543
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11510,10 +11510,10 @@
                 "to": {
                     "startLine": 1988,
                     "startColumn": 4,
-                    "startOffset": 142572,
+                    "startOffset": 142548,
                     "endLine": 1989,
                     "endColumn": 12,
-                    "endOffset": 142695
+                    "endOffset": 142671
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11531,9 +11531,9 @@
                 "to": {
                     "startLine": 1990,
                     "startColumn": 4,
-                    "startOffset": 142700,
+                    "startOffset": 142676,
                     "endColumn": 68,
-                    "endOffset": 142764
+                    "endOffset": 142740
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11550,9 +11550,9 @@
                 "to": {
                     "startLine": 1991,
                     "startColumn": 4,
-                    "startOffset": 142769,
+                    "startOffset": 142745,
                     "endColumn": 94,
-                    "endOffset": 142859
+                    "endOffset": 142835
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11569,9 +11569,9 @@
                 "to": {
                     "startLine": 1992,
                     "startColumn": 4,
-                    "startOffset": 142864,
+                    "startOffset": 142840,
                     "endColumn": 114,
-                    "endOffset": 142974
+                    "endOffset": 142950
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11588,9 +11588,9 @@
                 "to": {
                     "startLine": 1993,
                     "startColumn": 4,
-                    "startOffset": 142979,
+                    "startOffset": 142955,
                     "endColumn": 112,
-                    "endOffset": 143087
+                    "endOffset": 143063
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11607,9 +11607,9 @@
                 "to": {
                     "startLine": 1994,
                     "startColumn": 4,
-                    "startOffset": 143092,
+                    "startOffset": 143068,
                     "endColumn": 98,
-                    "endOffset": 143186
+                    "endOffset": 143162
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11626,9 +11626,9 @@
                 "to": {
                     "startLine": 1995,
                     "startColumn": 4,
-                    "startOffset": 143191,
+                    "startOffset": 143167,
                     "endColumn": 108,
-                    "endOffset": 143295
+                    "endOffset": 143271
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11645,9 +11645,9 @@
                 "to": {
                     "startLine": 1996,
                     "startColumn": 4,
-                    "startOffset": 143300,
+                    "startOffset": 143276,
                     "endColumn": 110,
-                    "endOffset": 143406
+                    "endOffset": 143382
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11664,9 +11664,9 @@
                 "to": {
                     "startLine": 1997,
                     "startColumn": 4,
-                    "startOffset": 143411,
+                    "startOffset": 143387,
                     "endColumn": 110,
-                    "endOffset": 143517
+                    "endOffset": 143493
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11683,9 +11683,9 @@
                 "to": {
                     "startLine": 1998,
                     "startColumn": 4,
-                    "startOffset": 143522,
+                    "startOffset": 143498,
                     "endColumn": 100,
-                    "endOffset": 143618
+                    "endOffset": 143594
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11702,9 +11702,9 @@
                 "to": {
                     "startLine": 1999,
                     "startColumn": 4,
-                    "startOffset": 143623,
+                    "startOffset": 143599,
                     "endColumn": 104,
-                    "endOffset": 143723
+                    "endOffset": 143699
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11721,9 +11721,9 @@
                 "to": {
                     "startLine": 2000,
                     "startColumn": 4,
-                    "startOffset": 143728,
+                    "startOffset": 143704,
                     "endColumn": 99,
-                    "endOffset": 143823
+                    "endOffset": 143799
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11740,10 +11740,10 @@
                 "to": {
                     "startLine": 2001,
                     "startColumn": 4,
-                    "startOffset": 143828,
+                    "startOffset": 143804,
                     "endLine": 2002,
                     "endColumn": 12,
-                    "endOffset": 143953
+                    "endOffset": 143929
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11761,9 +11761,9 @@
                 "to": {
                     "startLine": 2003,
                     "startColumn": 4,
-                    "startOffset": 143958,
+                    "startOffset": 143934,
                     "endColumn": 90,
-                    "endOffset": 144044
+                    "endOffset": 144020
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11780,9 +11780,9 @@
                 "to": {
                     "startLine": 2004,
                     "startColumn": 4,
-                    "startOffset": 144049,
+                    "startOffset": 144025,
                     "endColumn": 122,
-                    "endOffset": 144167
+                    "endOffset": 144143
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11799,9 +11799,9 @@
                 "to": {
                     "startLine": 2005,
                     "startColumn": 4,
-                    "startOffset": 144172,
+                    "startOffset": 144148,
                     "endColumn": 93,
-                    "endOffset": 144261
+                    "endOffset": 144237
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11818,10 +11818,10 @@
                 "to": {
                     "startLine": 2006,
                     "startColumn": 4,
-                    "startOffset": 144266,
+                    "startOffset": 144242,
                     "endLine": 2007,
                     "endColumn": 12,
-                    "endOffset": 144373
+                    "endOffset": 144349
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11839,9 +11839,9 @@
                 "to": {
                     "startLine": 2008,
                     "startColumn": 4,
-                    "startOffset": 144378,
+                    "startOffset": 144354,
                     "endColumn": 85,
-                    "endOffset": 144459
+                    "endOffset": 144435
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11858,9 +11858,9 @@
                 "to": {
                     "startLine": 2009,
                     "startColumn": 4,
-                    "startOffset": 144464,
+                    "startOffset": 144440,
                     "endColumn": 103,
-                    "endOffset": 144563
+                    "endOffset": 144539
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11877,9 +11877,9 @@
                 "to": {
                     "startLine": 2010,
                     "startColumn": 4,
-                    "startOffset": 144568,
+                    "startOffset": 144544,
                     "endColumn": 95,
-                    "endOffset": 144659
+                    "endOffset": 144635
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11896,9 +11896,9 @@
                 "to": {
                     "startLine": 2011,
                     "startColumn": 4,
-                    "startOffset": 144664,
+                    "startOffset": 144640,
                     "endColumn": 87,
-                    "endOffset": 144747
+                    "endOffset": 144723
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11915,10 +11915,10 @@
                 "to": {
                     "startLine": 2012,
                     "startColumn": 4,
-                    "startOffset": 144752,
+                    "startOffset": 144728,
                     "endLine": 2013,
                     "endColumn": 12,
-                    "endOffset": 144865
+                    "endOffset": 144841
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11936,10 +11936,10 @@
                 "to": {
                     "startLine": 2014,
                     "startColumn": 4,
-                    "startOffset": 144870,
+                    "startOffset": 144846,
                     "endLine": 2015,
                     "endColumn": 12,
-                    "endOffset": 144969
+                    "endOffset": 144945
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11957,10 +11957,10 @@
                 "to": {
                     "startLine": 2016,
                     "startColumn": 4,
-                    "startOffset": 144974,
+                    "startOffset": 144950,
                     "endLine": 2017,
                     "endColumn": 12,
-                    "endOffset": 145073
+                    "endOffset": 145049
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11978,10 +11978,10 @@
                 "to": {
                     "startLine": 2018,
                     "startColumn": 4,
-                    "startOffset": 145078,
+                    "startOffset": 145054,
                     "endLine": 2019,
                     "endColumn": 12,
-                    "endOffset": 145199
+                    "endOffset": 145175
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -11999,9 +11999,9 @@
                 "to": {
                     "startLine": 2020,
                     "startColumn": 4,
-                    "startOffset": 145204,
+                    "startOffset": 145180,
                     "endColumn": 87,
-                    "endOffset": 145287
+                    "endOffset": 145263
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12018,9 +12018,9 @@
                 "to": {
                     "startLine": 2021,
                     "startColumn": 4,
-                    "startOffset": 145292,
+                    "startOffset": 145268,
                     "endColumn": 107,
-                    "endOffset": 145395
+                    "endOffset": 145371
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12037,9 +12037,9 @@
                 "to": {
                     "startLine": 2022,
                     "startColumn": 4,
-                    "startOffset": 145400,
+                    "startOffset": 145376,
                     "endColumn": 99,
-                    "endOffset": 145495
+                    "endOffset": 145471
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12056,9 +12056,9 @@
                 "to": {
                     "startLine": 2023,
                     "startColumn": 4,
-                    "startOffset": 145500,
+                    "startOffset": 145476,
                     "endColumn": 89,
-                    "endOffset": 145585
+                    "endOffset": 145561
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12075,9 +12075,9 @@
                 "to": {
                     "startLine": 2024,
                     "startColumn": 4,
-                    "startOffset": 145590,
+                    "startOffset": 145566,
                     "endColumn": 109,
-                    "endOffset": 145695
+                    "endOffset": 145671
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12094,9 +12094,9 @@
                 "to": {
                     "startLine": 2025,
                     "startColumn": 4,
-                    "startOffset": 145700,
+                    "startOffset": 145676,
                     "endColumn": 83,
-                    "endOffset": 145779
+                    "endOffset": 145755
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12113,9 +12113,9 @@
                 "to": {
                     "startLine": 2026,
                     "startColumn": 4,
-                    "startOffset": 145784,
+                    "startOffset": 145760,
                     "endColumn": 101,
-                    "endOffset": 145881
+                    "endOffset": 145857
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12132,9 +12132,9 @@
                 "to": {
                     "startLine": 2027,
                     "startColumn": 4,
-                    "startOffset": 145886,
+                    "startOffset": 145862,
                     "endColumn": 83,
-                    "endOffset": 145965
+                    "endOffset": 145941
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12151,9 +12151,9 @@
                 "to": {
                     "startLine": 2028,
                     "startColumn": 4,
-                    "startOffset": 145970,
+                    "startOffset": 145946,
                     "endColumn": 53,
-                    "endOffset": 146019
+                    "endOffset": 145995
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12170,9 +12170,9 @@
                 "to": {
                     "startLine": 2029,
                     "startColumn": 4,
-                    "startOffset": 146024,
+                    "startOffset": 146000,
                     "endColumn": 63,
-                    "endOffset": 146083
+                    "endOffset": 146059
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12189,9 +12189,9 @@
                 "to": {
                     "startLine": 2030,
                     "startColumn": 4,
-                    "startOffset": 146088,
+                    "startOffset": 146064,
                     "endColumn": 105,
-                    "endOffset": 146189
+                    "endOffset": 146165
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12208,9 +12208,9 @@
                 "to": {
                     "startLine": 2031,
                     "startColumn": 4,
-                    "startOffset": 146194,
+                    "startOffset": 146170,
                     "endColumn": 109,
-                    "endOffset": 146299
+                    "endOffset": 146275
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12227,9 +12227,9 @@
                 "to": {
                     "startLine": 2032,
                     "startColumn": 4,
-                    "startOffset": 146304,
+                    "startOffset": 146280,
                     "endColumn": 83,
-                    "endOffset": 146383
+                    "endOffset": 146359
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12246,9 +12246,9 @@
                 "to": {
                     "startLine": 2033,
                     "startColumn": 4,
-                    "startOffset": 146388,
+                    "startOffset": 146364,
                     "endColumn": 119,
-                    "endOffset": 146503
+                    "endOffset": 146479
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values/values.xml",
@@ -12265,10 +12265,10 @@
                 "to": {
                     "startLine": 2034,
                     "startColumn": 4,
-                    "startOffset": 146508,
+                    "startOffset": 146484,
                     "endLine": 2035,
                     "endColumn": 12,
-                    "endOffset": 146603
+                    "endOffset": 146579
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12286,10 +12286,10 @@
                 "to": {
                     "startLine": 2036,
                     "startColumn": 4,
-                    "startOffset": 146608,
+                    "startOffset": 146584,
                     "endLine": 2042,
                     "endColumn": 12,
-                    "endOffset": 147018
+                    "endOffset": 146994
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12307,10 +12307,10 @@
                 "to": {
                     "startLine": 2043,
                     "startColumn": 4,
-                    "startOffset": 147023,
+                    "startOffset": 146999,
                     "endLine": 2046,
                     "endColumn": 12,
-                    "endOffset": 147225
+                    "endOffset": 147201
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12328,10 +12328,10 @@
                 "to": {
                     "startLine": 2047,
                     "startColumn": 4,
-                    "startOffset": 147230,
+                    "startOffset": 147206,
                     "endLine": 2049,
                     "endColumn": 12,
-                    "endOffset": 147384
+                    "endOffset": 147360
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12349,10 +12349,10 @@
                 "to": {
                     "startLine": 2050,
                     "startColumn": 4,
-                    "startOffset": 147389,
+                    "startOffset": 147365,
                     "endLine": 2058,
                     "endColumn": 12,
-                    "endOffset": 147949
+                    "endOffset": 147925
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12370,10 +12370,10 @@
                 "to": {
                     "startLine": 2059,
                     "startColumn": 4,
-                    "startOffset": 147954,
+                    "startOffset": 147930,
                     "endLine": 2064,
                     "endColumn": 12,
-                    "endOffset": 148310
+                    "endOffset": 148286
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12391,10 +12391,10 @@
                 "to": {
                     "startLine": 2065,
                     "startColumn": 4,
-                    "startOffset": 148315,
+                    "startOffset": 148291,
                     "endLine": 2067,
                     "endColumn": 12,
-                    "endOffset": 148439
+                    "endOffset": 148415
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12412,10 +12412,10 @@
                 "to": {
                     "startLine": 2068,
                     "startColumn": 4,
-                    "startOffset": 148444,
+                    "startOffset": 148420,
                     "endLine": 2076,
                     "endColumn": 12,
-                    "endOffset": 149106
+                    "endOffset": 149082
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12433,10 +12433,10 @@
                 "to": {
                     "startLine": 2077,
                     "startColumn": 4,
-                    "startOffset": 149111,
+                    "startOffset": 149087,
                     "endLine": 2080,
                     "endColumn": 12,
-                    "endOffset": 149286
+                    "endOffset": 149262
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
@@ -12454,10 +12454,10 @@
                 "to": {
                     "startLine": 2081,
                     "startColumn": 4,
-                    "startOffset": 149291,
+                    "startOffset": 149267,
                     "endLine": 2088,
                     "endColumn": 12,
-                    "endOffset": 149891
+                    "endOffset": 149867
                 },
                 "from": {
                     "file": "/Users/phanindrabhagavatula/Desktop/Durga/Udacity Android Nanodegree/AndroidNanoDegreeProject5/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values/values.xml",
