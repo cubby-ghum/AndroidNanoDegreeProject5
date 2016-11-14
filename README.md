@@ -1,9 +1,5 @@
 # AndroidNanoDegreeProject5
 Make Your App Material
-![Main page before changes](/makeyouappmaterialold01.jpg?raw=true "Main page before changes")
-
-![Detail page before changes](/makeyourappmaterialold02.jpg "Detail page before changes")
-
 
 Execise: In this project, you will update the look and feel of an app to meet Material Design specifications.
 
@@ -21,7 +17,11 @@ Execise: In this project, you will update the look and feel of an app to meet Ma
 
 - App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
 
+![Main page before changes](/makeyouappmaterialold01.jpg?raw=true "Main page before changes")
+
 ![Main page after changes](/makeyouappmaterial01.jpg?raw=true "Main page after changes")
+
+![Detail page before changes](/makeyourappmaterialold02.jpg "Detail page before changes")
 
 ![Detail page after changes](/makeyourappmaterial02.jpg "Detail page after changes")
 
