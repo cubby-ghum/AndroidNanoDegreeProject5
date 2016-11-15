@@ -16,14 +16,15 @@ Execise: In this project, you will update the look and feel of an app to meet Ma
 - App uses images that are high quality, specific, and full bleed.
 
 - App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
+<img src="/makeyouappmaterialold01.jpg" height="100px" width="100px" alt="main page before changes"/>
+<img src="/makeyouappmaterialold02.jpg" height="100px" width="100px" alt="detail page before changes"/>
+<img src="/makeyouappmaterial01.jpg" height="100px" width="100px" alt="main image after changes"/>
+<img src="/makeyouappmaterial02.jpg" height="100px" width="100px" alt="detail after changes"/>
 
-![Main page before changes](/makeyouappmaterialold01.jpg?raw=true "Main page before changes")
 
-![Main page after changes](/makeyouappmaterial01.jpg?raw=true "Main page after changes")
 
-![Detail page before changes](/makeyourappmaterialold02.jpg "Detail page before changes")
 
-![Detail page after changes](/makeyourappmaterial02.jpg "Detail page after changes")
+
 
 
 
