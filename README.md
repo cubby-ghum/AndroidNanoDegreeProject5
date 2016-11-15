@@ -17,9 +17,9 @@ Execise: In this project, you will update the look and feel of an app to meet Ma
 
 - App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
 <img src="/makeyouappmaterialold01.jpg" height="100px" width="100px" alt="main page before changes"/>
-<img src="/makeyouappmaterialold02.jpg" height="100px" width="100px" alt="detail page before changes"/>
+<img src="/makeyourappmaterialold02.jpg" height="100px" width="100px" alt="detail page before changes"/>
 <img src="/makeyouappmaterial01.jpg" height="100px" width="100px" alt="main image after changes"/>
-<img src="/makeyouappmaterial02.jpg" height="100px" width="100px" alt="detail after changes"/>
+<img src="/makeyourappmaterial02.jpg" height="100px" width="100px" alt="detail after changes"/>
 
 
 
